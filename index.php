@@ -1,5 +1,5 @@
 <?php
-	echo "Olá mundo oeoe";
+	echo "Olá mundo :D ";
 
-    echo "Olá Senhor Andrade";
+	echo "Olá Adriano Andrade!";
 ?>
